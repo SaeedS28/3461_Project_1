@@ -1,0 +1,12 @@
+Jacuzzis		Jacizzis		0		Incorrect
+Maximization	Maximiz			2		Incorrect
+Jackhammer		Jackhammer		0		Correct
+Celsius			Celsius			0		Correct
+California		CAlifornia		0		Correct
+Wounded			Wounded			0		Correct
+Biophysicist	Biophysicist	0		Correct
+Jujutsu			Juju			1		Incorrect
+Abducting		Abducting		0		Correct
+Jujubes			Jujubes			0		Correct
+
+7 correct			3 incorrect

@@ -1,0 +1,12 @@
+Aardvark		aardv			0		Incorrect
+Zygapophyses	Xygapoph		1		Incorrect
+Highjacked		Highjacked		0		Correct
+Minimum			minimum			0		Correct
+Razzmatazz		razzmatazz		0		Correct
+Debouch			debouch			3		Correct
+Onomatopoeia	onomatioeia		0		Incorrect
+Wryness			Wryness			0		Correct
+Marijauna		Maijuanna		1		Incorrect
+Albumin			albumin			0		Correct
+
+6 correct			4 incorrect

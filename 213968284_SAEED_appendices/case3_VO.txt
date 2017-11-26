@@ -1,0 +1,12 @@
+Aardvark		Aard		0		Incorrect
+Zygapophyses	ygpop		1		Incorrect
+Highjacked		Highjacke	0		Incorrect
+Minimum			Minimun		0		Incorrect
+Razzmatazz		Razzmara	0		Incorrect
+Debouch			Debou		0		Incorrect
+Onomatopoeia	Onomatp		2		Incorrect
+Wryness			W			0		Incorrect
+Marijauna		Mai			1		Incorrect
+Albumin			Alb			0		Incorrect
+
+0 correct			10 incorrect

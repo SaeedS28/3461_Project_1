@@ -1,0 +1,12 @@
+Dystopia		Dystopia		0		Correct
+Saskatchewan	Saskatchewan	0		Correct
+Conscience		Consience		0		Incorrect
+Writers			Writers			0		Correct
+Deductible		Deductible		1		Correct
+Pharaoh			Pharaoh			1		Correct
+Handkerchief	Handkerchief	0		Correct
+Quizzed			Quizzed			1		Correct
+Australia		Australia		0		Correct
+Windows			Windows			0		Correct
+
+9 correct			1 incorrect
